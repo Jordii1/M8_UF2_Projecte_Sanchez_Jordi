@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M8_UF2_Projecte_Sanchez_Jordi</string>
+    <string name="view_history">Veure Registre</string>
+    <string name="main_title">Aplicació llum</string>
+    <string name="view_light_level">Veure intensitat de la llum</string>
+
+</resources>
